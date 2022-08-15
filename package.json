@@ -1,0 +1,23 @@
+{
+  "name": "express-101 course",
+  "version": "1.0.0",
+  "description": "This is node express crash course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Mehedi Hasan Rafiz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "16.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
